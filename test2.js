@@ -1,5 +1,0 @@
-User {
-    name:
-    email: 
-    
-}
