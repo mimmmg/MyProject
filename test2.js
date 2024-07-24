@@ -1,4 +1,5 @@
-user = {
+User {
     name:
-    email:
+    email: 
+    
 }
